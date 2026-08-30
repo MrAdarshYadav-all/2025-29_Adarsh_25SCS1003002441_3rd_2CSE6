@@ -1,0 +1,260 @@
+INTERNSHIP REPORT
+
+Artificial Intelligence Internship
+
+Codec Technologies Pvt. Ltd.
+
+------------------------------------------------------------------------
+
+STUDENT DETAILS
+
+Student Name: Adarsh Yadav Enrollment Number: 25SCS100302441 Roll
+Number: 2441 Programme: B.Tech Computer Science and Engineering
+Semester: III Internship Designation: Artificial Intelligence Intern
+Organization: Codec Technologies Pvt. Ltd. Internship Duration:
+07/07/2026 to 07/08/2026 Mode: Hybrid Location: Pan India
+
+------------------------------------------------------------------------
+
+1. INTRODUCTION
+
+This report presents the internship experience completed by Adarsh Yadav
+at Codec Technologies Pvt. Ltd. as an Artificial Intelligence Intern.
+The internship was conducted for one month, from 07 July 2026 to 07
+August 2026.
+
+According to the internship offer letter, the programme was intended to
+provide an immersive experience through which interns could gain
+industry-level knowledge and acquire valuable skills. The internship
+involved assigned projects and training tasks conducted through the
+organization’s platform and email.
+
+The internship provided an opportunity to connect academic learning with
+a professional environment and to gain exposure to Artificial
+Intelligence-related work and professional practices.
+
+------------------------------------------------------------------------
+
+2. ORGANIZATION PROFILE
+
+Codec Technologies Pvt. Ltd. is described in the internship offer letter
+as a global platform focused on empowering learners and connecting
+diverse talent with career opportunities. The organization states that
+it delivers dedicated IT and business consultancy services across more
+than 27 countries.
+
+The internship was organized through Codec Technologies and was
+supervised by assigned project head(s).
+
+------------------------------------------------------------------------
+
+3. INTERNSHIP DETAILS
+
+Designation: Artificial Intelligence Intern
+
+Duration: 07 July 2026 to 07 August 2026
+
+Duration: 1 Month
+
+Location and Mode: Pan India, Hybrid
+
+Reporting: Assigned Project Head(s)
+
+The offer letter states that interns were required to complete assigned
+projects and training tasks on the organization’s platform and through
+email.
+
+------------------------------------------------------------------------
+
+4. OBJECTIVES OF THE INTERNSHIP
+
+The main objectives of the internship were:
+
+-   To gain practical exposure to an Artificial Intelligence-oriented
+    professional environment.
+-   To understand how project and training tasks are handled in an
+    organization.
+-   To develop industry-oriented knowledge and skills.
+-   To connect academic concepts with practical learning.
+-   To improve professional discipline and communication.
+-   To gain experience working under the guidance of assigned project
+    head(s).
+-   To develop the ability to complete assigned tasks within the
+    internship period.
+
+------------------------------------------------------------------------
+
+5. SCOPE OF THE INTERNSHIP
+
+The internship was focused on Artificial Intelligence and professional
+skill development. Based on the available internship documents, its
+scope included:
+
+-   Artificial Intelligence-oriented learning.
+-   Assigned project work.
+-   Training tasks.
+-   Industry-level knowledge development.
+-   Professional communication through email.
+-   Working under assigned project supervision.
+-   Exposure to a hybrid internship environment.
+
+The available documents do not specify the exact names of programming
+languages, software tools, datasets, AI models, or individual projects
+completed during the internship. Therefore, this report does not claim
+the use of any specific technical tool or project that is not documented
+in the provided materials.
+
+------------------------------------------------------------------------
+
+6. TRAINING AND WORKING APPROACH
+
+The internship combined training and assigned project activities.
+
+6.1 Training
+
+Training activities were intended to provide industry-oriented knowledge
+and support the development of relevant skills.
+
+6.2 Assigned Tasks
+
+Interns were instructed to complete assigned projects and training tasks
+through the organization’s platform and via email.
+
+6.3 Supervision
+
+The internship offer letter states that the intern reported to assigned
+project head(s). This provided a structured approach to completing the
+internship requirements.
+
+6.4 Performance Evaluation
+
+The offer letter states that exceptional interns could qualify for a
+scholarship award based on weekly performance reviews conducted by the
+project supervisor.
+
+------------------------------------------------------------------------
+
+7. ARTIFICIAL INTELLIGENCE LEARNING EXPOSURE
+
+The internship designation was Artificial Intelligence Intern. The
+internship therefore provided exposure to an AI-oriented learning and
+project environment.
+
+Artificial Intelligence is an important area of Computer Science that
+focuses on developing systems capable of performing tasks that normally
+require aspects of human intelligence, such as learning, reasoning,
+pattern recognition and decision-making.
+
+During the internship, the AI-oriented environment provided an
+opportunity to relate academic concepts to industry-oriented learning
+and assigned tasks.
+
+Note: The provided certificate and offer letter do not list specific AI
+algorithms, frameworks, datasets, programming languages, or models.
+Those details should only be added to the final report if they are
+supported by the actual training material or project work.
+
+------------------------------------------------------------------------
+
+8. SKILLS DEVELOPED
+
+The internship contributed to the development of the following areas:
+
+Technical Awareness
+
+-   Exposure to Artificial Intelligence as an industry-oriented field.
+-   Understanding of project and training-based learning.
+-   Familiarity with completing assigned technical tasks.
+
+Professional Skills
+
+-   Professional communication.
+-   Task management.
+-   Following project instructions.
+-   Working under supervision.
+-   Meeting internship requirements.
+-   Professional discipline.
+
+Career Development
+
+-   Exposure to an organizational work environment.
+-   Understanding of project-based responsibilities.
+-   Experience relevant to future internship and placement preparation.
+
+------------------------------------------------------------------------
+
+9. RELEVANCE TO COMPUTER SCIENCE AND ENGINEERING
+
+The internship was relevant to the B.Tech Computer Science and
+Engineering programme because Artificial Intelligence is an important
+area within modern Computer Science.
+
+The experience provided an opportunity to complement classroom learning
+with industry-oriented exposure. It also highlighted the importance of
+combining technical knowledge with communication, task management,
+supervision and professional behaviour.
+
+The internship can therefore serve as an additional practical learning
+experience alongside academic coursework and personal technical
+projects.
+
+------------------------------------------------------------------------
+
+10. INTERNSHIP OUTCOMES
+
+At the completion of the internship, the following broad outcomes were
+achieved:
+
+-   Completed a one-month internship as an Artificial Intelligence
+    Intern.
+-   Gained exposure to an industry-oriented AI environment.
+-   Participated in assigned project and training activities.
+-   Developed professional communication and task-management skills.
+-   Gained experience working under assigned project supervision.
+-   Improved understanding of professional expectations in a
+    technology-oriented environment.
+
+------------------------------------------------------------------------
+
+11. CERTIFICATE DETAILS
+
+The Certificate of Internship issued by Codec Technologies Pvt.
+Ltd. records that Adarsh Yadav completed the one-month AICTE & ICAC
+approved internship programme as an Artificial Intelligence Intern.
+
+The certificate states that the internship was conducted from:
+
+07/07/2026 to 07/08/2026
+
+The certificate identifies Dr. Anurag Shrivastava as Program Manager and
+includes the following AICTE ID:
+
+CORPORATE6759d549ce59e1733940553
+
+------------------------------------------------------------------------
+
+12. CONCLUSION
+
+The one-month Artificial Intelligence internship at Codec Technologies
+Pvt. Ltd. provided an opportunity to gain exposure to an
+industry-oriented environment and to develop professional skills
+alongside academic education.
+
+The internship involved assigned projects and training tasks and was
+conducted from 07 July 2026 to 07 August 2026 in a hybrid mode. It
+helped strengthen professional communication, task management,
+supervised project work and awareness of Artificial Intelligence as a
+career-oriented field.
+
+Overall, the internship was a useful addition to the academic journey of
+a Computer Science and Engineering student and provided experience that
+can support future technical projects, internships and placement
+preparation.
+
+------------------------------------------------------------------------
+
+13. REFERENCES
+
+1.  Codec Technologies Pvt. Ltd. – Internship Offer Letter.
+2.  Codec Technologies Pvt. Ltd. – Certificate of Internship.
+3.  B.Tech Computer Science and Engineering academic coursework.
