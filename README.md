@@ -243,20 +243,4 @@ It brings together the relevant reports, presentations, certificates, offer lett
 
 ````
 
-### One thing I'd change on your actual GitHub
 
-Your folder is currently named **`TCS cource`**. Since this is a public repository, I'd strongly recommend renaming it to:
-
-```text
-TCS iON Course
-````
-
-or, if you want to keep everything simple for GitHub:
-
-```text
-TCS-iON-Course
-```
-
-That looks much more professional than `TCS cource`.
-
-Also, your **Codec Tech Internship** folder is already clearly separated, which is good. The README above matches that organization instead of pretending there are folders like `Projects/` and `Training/` that aren't actually shown in your repository.
